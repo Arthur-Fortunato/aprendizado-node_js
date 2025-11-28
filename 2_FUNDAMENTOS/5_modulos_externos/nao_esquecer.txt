@@ -1,0 +1,1 @@
+No começo de um projeto Node é pra rodar o comando npm init.
