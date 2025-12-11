@@ -1,0 +1,7 @@
+npm init -y
+
+npm install -g nome_do_pacote
+
+npm linked nome_do_pacote
+
+depois é só rodar normalmente

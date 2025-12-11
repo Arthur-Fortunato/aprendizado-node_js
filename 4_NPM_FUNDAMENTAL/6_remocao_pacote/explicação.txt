@@ -1,0 +1,1 @@
+foi só pra aprender o comando npm uninstall nome_pacote
